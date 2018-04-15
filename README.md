@@ -1,18 +1,19 @@
 # Pairing Session 
 
-Brief description of what the project is
+This repository contains two katas (Leap Year and Duplicates) created during a paring session with the aim of practising Test Driven Development. 
 
 ## Getting started
 
-`git clone path-to-your-repo`
-`command_to_install_dependencies` (e.g. `bundle`)
+Ruby installation is required. 
+
+'git clone path-to-your-repo`
+
 
 ## Usage
 
-`command_to_start` (e.g. `rackup` or `rails s`)
-Navigate to `http://localhost:4567/`
-
+'ruby ./lib/leapyear.md' 
+'ruby ./lib/removeduplicates.md'
 
 ## Running tests
 
-`test_command` (e.g. `rspec`)
+`rspec` (e.g. `rspec`)

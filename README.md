@@ -6,13 +6,13 @@ This repository contains two katas (Leap Year and Duplicates) created during a p
 
 Ruby installation is required. 
 
-'git clone path-to-your-repo`
+`git clone path-to-your-repo`
 
 
 ## Usage
 
-'ruby ./lib/leapyear.md' 
-'ruby ./lib/removeduplicates.md'
+`ruby ./lib/leapyear.md`
+`ruby ./lib/removeduplicates.md`
 
 ## Running tests
 
